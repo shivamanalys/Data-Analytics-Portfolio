@@ -5,7 +5,8 @@ This is my first major data analytics project. I transformed a raw retail datase
 ---
 
 ### 🖼️ Dashboard Preview
-![Sales Dashboard](./Excel_Projects/sales_dashboard.png)
+<img width="2341" height="877" alt="! Alt text (imagesphoto png)" src="https://github.com/user-attachments/assets/9c1b5e77-ba69-4b2d-b08c-d1a1348ea251" />
+
 
 ---
 
