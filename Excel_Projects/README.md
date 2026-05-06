@@ -44,8 +44,29 @@ Ye project ek New York based coffee shop chain ke operations par focus karta hai
 ### 🛠️ Technical Toolkit
 *   **Advanced Formulas:** Data ko hours aur days mein divide karne ke liye Excel functions ka use kiya.
 *   **Dynamic UX:** Month aur Day slicers add kiye hain taaki user kisi bhi specific time period ka data dekh sake.
-
 ---
+---
+
+## 👗 Project 3: Vrinda Store Annual Sales Report 2022
+> **Status:** Completed ✅ | **Domain:** E-commerce & Retail
+
+### ✨ Project Vision
+Is project mein maine ek retail clothing store "Vrinda Store" ka pure saal ka data analyze kiya hai. Is dashboard ka main kaam ye batana hai ki business ko sabse zyada orders kahan se mil rahe hain aur kaunsa customer segment sabse profitable hai.
+
+### 🖼️ Dashboard Preview
+<img width="1856" height="659" alt="Vrinda Store Data Analysis" src="https://github.com/user-attachments/assets/7bbbffb6-e744-4a27-8b4d-d562a7deba14" />
+
+
+### 🔍 Deep-Dive Insights:
+*   **📈 Sales vs Orders:** Pure saal mein March ka mahina sabse peak par raha, jisme orders aur sales dono ne high jump liya.
+*   **👩 Gender-Based Sales:** Dashboard se saaf dikhta hai ki **64% sales Women** segment se aa rahi hain.
+*   **🌍 Geographic Reach:** **Maharashtra (2.99M)** aur **Karnataka (2.65M)** hamare top performing states hain.
+*   **🛒 Channel Performance:** Sabse zyada orders **Amazon (35%)** aur **Flipkart (22%)** se aa rahe hain, jo dikhata hai ki online marketplaces ka business par kitna bada asar hai.
+*   **📊 Order Status:** **92% orders successful deliver** huye hain, jo ek bahut achha delivery rate hai.
+
+### 🛠️ Technical Toolkit:
+*   **Pivot Charts & Slicers:** Dynamic filtering ke liye (Month, Channel, Category).
+*   **Data Modeling:** Age aur Gender groups ko segregate karke analysis kiya gaya.
 
 ## 🛠️ Skills Showcase
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
